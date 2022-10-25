@@ -1,3 +1,3 @@
 # Employee
-first Name
-Last Name
+firstName
+Las Name
